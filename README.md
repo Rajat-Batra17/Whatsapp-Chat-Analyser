@@ -1,5 +1,8 @@
-
 # Hi, I'm Rajat Batra !👋 . I am a problem solver by passion and a software developer by profession.😎
+
+## Live Link
+
+https://rajat-batra17-whatsapp-chat-analyser-app-v9u1y2.streamlit.app/
 
 # WhatsApp Chat-Analyzer 
 
@@ -25,25 +28,25 @@ others. It works well for both group and individual chats. So have fun analyzing
 
 ## Screenshots
 
-### **Upload here**
+### Upload here
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171040.png?raw=true)
 
-### **Overall and Individual analysis**
+### Overall and Individual analysis
 
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171408.png?raw=true)
 
-### **Number of messages and media**
+### Number of messages and media
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171118.png?raw=true)
 
-### **Most Busy Users**
+### Most Busy Users
 
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171140.png?raw=true)
 
 
-### **Emoji analysis**
+### Emoji analysis
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171316.png?raw=true)
 
-### **Activity Map**
+### Activity Map
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171258.png?raw=true)
 ## Run Locally
 
@@ -87,10 +90,10 @@ Open folder in pycharm or visual studio code.
 ```
 
 
-# Hi, I'm Rajat Batra !👋 . I am a problem solver by passion and a software developer by profession.😎
 
 
-## 🔗 Links
+
+## 🔗 My Profile
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajat-batra-5389081b1/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajatBa30455194)
