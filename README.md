@@ -1,4 +1,6 @@
 
+# Hi, I'm Rajat Batra !👋 . I am a problem solver by passion and a software developer by profession.😎
+
 # WhatsApp Chat-Analyzer 
 
 👇This fun and useful web-app helps you analyse your WhatsApp conversations with
@@ -23,25 +25,25 @@ others. It works well for both group and individual chats. So have fun analyzing
 
 ## Screenshots
 
-### Upload here
+### **Upload here**
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171040.png?raw=true)
 
-### Overall and Individual analysis
+### **Overall and Individual analysis**
 
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171408.png?raw=true)
 
-### Number of messages and media
+### **Number of messages and media**
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171118.png?raw=true)
 
-### Most Busy Users
+### **Most Busy Users**
 
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171140.png?raw=true)
 
 
-### Emoji analysis
+### **Emoji analysis**
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171316.png?raw=true)
 
-### Activity Map
+### **Activity Map**
 ![App-Screenshot](https://github.com/Rajat-Batra17/Whatsapp-Chat-Analyser/blob/main/Screenshot/Screenshot%202022-12-02%20171258.png?raw=true)
 ## Run Locally
 
